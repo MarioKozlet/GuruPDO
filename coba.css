@@ -1,0 +1,20 @@
+
+#card {
+        background: rgba(189, 188, 188, 0.582);
+        border-radius: 8px;
+        box-shadow: 5px 10px 10px rgb(0, 0, 0);
+        height: auto;
+        margin: 6rem auto 8.1rem auto;
+        width: 410px;
+}
+
+#card-title {
+        letter-spacing: 4px;
+        padding-bottom: 23px;
+        padding-top: 13px;
+        text-align: center;
+}
+
+#card-content {
+        padding: 12px 40px;
+}
